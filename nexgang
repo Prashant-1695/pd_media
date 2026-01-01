@@ -53,6 +53,7 @@ RUN sudo apt-get install -y \
 
 RUN sudo pip install \
     requests \
+    gdown \
     python-telegram-bot \
     PyYAML
 
