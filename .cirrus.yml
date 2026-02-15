@@ -14,4 +14,4 @@ task:
     clone_script:
       - git clone https://$GITHUB_TOKEN@github.com/Prashant-1695/bulk_down.git .
     upload_script:
-      - bash upload.sh
+      - bash upload_go3.sh
