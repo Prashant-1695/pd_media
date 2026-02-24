@@ -1,6 +1,6 @@
 env:
     CIRRUS_WORKING_DIR: "/tmp/ci" # Where files download
-    GITHUB_TOKEN: "ENCRYPTED[!1a40608e8bcdf1dff25846f80709b5469dd4bee7e5f2da894ce5bfcb6e6f68c54996cf290ba8dc306b09b4df47d691e6!]"
+    GITHUB_TOKEN: "ENCRYPTED[!f3ae6ad5ae36a6b831b02d536693a02ebcc6d79c26431169f8f14968a1078097c08ceb544e5d5cdf67913b8b514d0c4b!]"
 
 task:
     name: pd_media
