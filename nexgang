@@ -41,6 +41,7 @@ RUN \
 RUN sudo apt-get install -y \
     python3 \
     p7zip-full \
+	mkvtoolnix \
     jq \
     curl \
     aria2 \
